@@ -1,0 +1,8 @@
+{
+  "name": "riml.js",
+  "version": "0.7.0",
+  "main": "lib/riml.js",
+  "dependencies": {
+    "js-yaml": "^3.7.0"
+  }
+}
