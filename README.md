@@ -16,6 +16,13 @@ The official specification can be found [here](https://github.com/supernovus/rim
 
 There is a PHP implementation as a part of my [Nano.php](https://github.com/supernovus/nano.php) library set.
 
+## Official URLs
+
+This library can be found in two places:
+
+ * [Github](https://github.com/supernovus/riml.js)
+ * [NPM](https://www.npmjs.com/package/riml)
+
 ## Author
 
 Timothy Totten <2010@totten.ca>
