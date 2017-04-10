@@ -10,8 +10,7 @@ It's similar to RAML in some ways, but vastly different in others.
 
 ## Specification
 
-The specification is currently under development, and won't be published until
-version 1.0 is fully finished.
+The official specification can be found [here](https://github.com/supernovus/riml-spec).
 
 ## Other implementations
 
