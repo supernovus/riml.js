@@ -1,6 +1,6 @@
 {
   "name": "riml",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "main": "lib/riml.js",
   "dependencies": {
     "js-yaml": "^3.7.0"
