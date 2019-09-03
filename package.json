@@ -1,7 +1,13 @@
 {
   "name": "riml",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "main": "lib/riml.js",
+  "license": "MIT",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/supernovus/riml.js.git"
+  },
   "dependencies": {
     "js-yaml": "^3.7.0"
   }
